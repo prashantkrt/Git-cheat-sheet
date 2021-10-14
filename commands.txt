@@ -59,4 +59,4 @@ git branch -u origin/<branch_name> //this need to be set before git pull
 git fetch // This command will download the changes from a remote repo but will not perform a merge on your local branch 
 git merge // merges two branch files
 git pull //fetch and merge
-Git push —delete origin <branch-name> //delete the branch name in remote
+Git push —delete origin <branch-name> // delete the branch name in remote
